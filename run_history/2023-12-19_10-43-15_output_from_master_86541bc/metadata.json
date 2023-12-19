@@ -1,0 +1,12 @@
+{
+  "Output repo commit message": "Generate and analyse example data; ",
+  "Output repo branch": "2023-12-19_10-43-15_output_from_master_86541bc",
+  "Output repo commit hash": "57152577b2416d757078cf7524331c2f51509901",
+  "Project repo commit hash": "86541bcabf462fc46e3dad37d74cfc48aa60958b",
+  "Project repo folder name": "demonstratio_repo",
+  "Project repo remotes": [
+    "https://github.com/ronald-jaepel/workshop_demo"
+  ],
+  "Python sys args": "['C:\\\\Users\\\\ronal\\\\PycharmProjects\\\\CADETRDM\\\\tmp\\\\demonstration.py']",
+  "Tags": ""
+}
