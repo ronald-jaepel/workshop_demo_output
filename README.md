@@ -7,4 +7,4 @@ Please add a description here including:
 
 
 The project repository can be found at:
-[project_repo](https///github.com/ronald-jaepel/workshop_demo)
+[project_repo](https///github.com/ronald-jaepel/workshop_demo) and [project_repo](https://jugit.fz-juelich.de/IBG-1/ModSim/cadet/CADET-RDM)
